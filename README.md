@@ -2,9 +2,10 @@
 
 ## Integrantes
 
-- Sebastian Andrade Cedano
-- Cristian Steven Motta Ojeda
-- Juan Esteban Santacruz Corredor
+- [Sebastian Andrade Cedano](https://github.com/sgewux)
+- [Cristian Steven Motta Ojeda](https://github.com/cmottao)
+- [Juan Esteban Santacruz Corredor](https://github.com/Jestebansamt)
+
 
 ## Proyecto
 
